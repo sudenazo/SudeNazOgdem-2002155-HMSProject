@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id" />
+    <item name="user_info" type="id" />
+    <item name="distance" type="id" />
+    <item name="location" type="id" />
+    <item name="location_button" type="id" />
+    <item name="country_code_spinner" type="id" />
+    <item name="name" type="id" />
+    <item name="address" type="id" />
+    <item name="play_button" type="id" />
+    <item name="equipment_detail_recycler_view" type="id" />
+    <item name="charging_station_name" type="id" />
+    <item name="charging_station_address" type="id" />
+    <item name="btn_sign_in" type="id" />
+</resources>
